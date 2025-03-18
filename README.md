@@ -33,7 +33,6 @@ We use **Pandas** to load the **Wisconsin Diagnostic Breast Cancer Dataset**:
 ```python
 import pandas as pd
 df = pd.read_csv('/data.csv')
-df.head()
 ```
 
 📝 **Preprocessing Steps**:
